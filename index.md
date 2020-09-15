@@ -91,6 +91,8 @@ the pitch.
 {% include dc/intro.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/intro.html %}
+{% elsif site.carpentry == "none" %}
+{% include none/intro.html %}
 {% endif %}
 
 {% comment %}
@@ -105,6 +107,8 @@ workshop is only open to people from a particular institution.
 {% include dc/who.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
+{% elsif site.carpentry == "none" %}
+{% include none/who.html %}
 {% endif %}
 
 {% comment %}
