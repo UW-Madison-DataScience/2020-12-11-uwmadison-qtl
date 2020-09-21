@@ -236,7 +236,12 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to researchers who want to employ genetic mapping to identify, quantify, and characterize quantitative trait loci.
+  <strong>
+    Prerequisite:
+  </strong>
+  Some R programming skills are required for successful participation. If you can manipulate R data structures (e.g. lists, matrices, data frames) you are ready for this course.
+</p>
 </p>
 
 
