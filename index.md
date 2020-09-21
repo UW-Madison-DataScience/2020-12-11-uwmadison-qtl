@@ -242,8 +242,6 @@ Edit the text to match who can attend the workshop. For instance:
   </strong>
   Some R programming skills are required for successful participation. If you can manipulate R data structures (e.g. lists, matrices, data frames) you are ready for this course.
 </p>
-</p>
-
 
 <hr/>
 
