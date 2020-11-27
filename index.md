@@ -302,7 +302,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
-
+All times are Central Standard Time (CST). Add one hour for Eastern Standard Time (EST).
 {% include swc/schedule.html %}
 
 
